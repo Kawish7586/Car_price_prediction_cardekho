@@ -24,3 +24,6 @@ seller_type
 transmission
 
 Owner
+
+Aim of Project:-
+The model is tried to be solved by RandomForestRegressor and uses hyperparameter technique applied on dataset for predicted results.
